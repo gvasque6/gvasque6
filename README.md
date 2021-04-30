@@ -10,6 +10,7 @@ Short story: I believe in the ability of data to create stories and transform th
 
 Long story: Business administrator with a focus on project management and current Data Science student in Protalent. 
 I enjoy working on projects that involve data, stories, and code to solve complex problems.
-I believe in the potential of data to generate value propositions, solve problems, 
-create new services or products and especially help create sustainable companies over time.
-}
+I believe in the potential of data to generate value propositions, invent new services or products and especially help create sustainable companies over time.
+
+¡Get in touch if you have an interesting project I can collaborate on or if you just want to chat about common interests!
+😊 let´s create new stories together.
